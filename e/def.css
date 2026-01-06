@@ -3,6 +3,10 @@
     font-family: 'JetBrains Mono', monospace;
 }
 
+body {
+    background-color: linear-gradient(90deg, #708090, #406094);
+}
+
 h1, h2 {
     font-size: 28px;
     color: #7fffd4;
@@ -21,5 +25,9 @@ h3, h4 {
 .banner {
     display: block;
     position: fixed;
-    background-color: linear-gradient(45deg, #708090, #708090);
+    width: 120%;
+    height: 60%;
+    top: 10%;
+    right: 10%;
+    background-color: linear-gradient(45deg, #708090, #406094);
 }

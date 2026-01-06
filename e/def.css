@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: linear-gradient(90deg, #708090, #406094);
+    background: linear-gradient(90deg, #708090, #406094);
 }
 
 h1, h2 {
@@ -29,5 +29,5 @@ h3, h4 {
     height: 60%;
     top: 10%;
     right: 10%;
-    background-color: linear-gradient(45deg, #708090, #406094);
+    background: linear-gradient(45deg, #708090, #406094);
 }
